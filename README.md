@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Hrishikesh
 <!--
 **Hrishi5111998/Hrishi5111998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4>:coffee:  About me </h4> 
+ 
+:computer: I am self taught Full Stack Developer from Amravati, India.
+ 
+:ocean:  Passionate about front-end development.
+
+:wine_glass: Currently learning Java.
+
+:soccer: I like to contribute to open source, football and making friends with people who loves tech.
+
+ <h4>:computer:   Tech Stack </h4>
+ 
+ HTML
+ 
+ CSS
+ 
+ JavaScript
+ 
+ Java
