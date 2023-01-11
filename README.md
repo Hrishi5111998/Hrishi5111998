@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :wine_glass: Currently learning Java.
 
-:soccer: I like to contribute to open source, football and making friends with people who loves tech.
+:soccer: I like to contribute to open source,to watch football and making friends with people who loves tech.
 
  <h4>:computer:   Tech Stack </h4>
  
