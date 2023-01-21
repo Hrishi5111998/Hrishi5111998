@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Hrishikesh
+Hrishikesh  here
 <!--
 **Hrishi5111998/Hrishi5111998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <h4>:coffee:  About me </h4> 
  
-:computer: I am self taught Full Stack Developer from Amravati, India.
+:computer: I am currently learning Full Stack Web Development.
  
-:ocean:  Passionate about front-end development.
+:ocean: Want to contribute to open source to regularly.
 
-:wine_glass: Currently learning Java.
+:wine_glass: Keen to learn new things.
 
 :soccer: I like to contribute to open source,to watch football and making friends with people who loves tech.
 
