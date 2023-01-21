@@ -34,4 +34,6 @@ Here are some ideas to get you started:
  
  Java
  
+ Version Control
+ 
  [![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishi5111998&count_private=true&show_icons=true&theme=onedark)](https://github.com/Hrishi5111998/github-readme-stats)
