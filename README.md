@@ -58,18 +58,18 @@ Here are some ideas to get you started:
 <br/>
   
 <p align="center">
-<img width="425px"src="https://github-readme-stats.vercel.app/api?username=money8203&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=money8203&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<img width="425px"src="https://github-readme-stats.vercel.app/api?username=Hrishi5111998&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi5111998&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=money8203&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi5111998&theme=dark&hide_border=true"/>
 </p>
 </details>
   
   <p align="center">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=money8203&column=7&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true">
+      src="https://github-profile-trophy.vercel.app/?username=Hrishi5111998&column=7&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true">
   </p>
 
  
