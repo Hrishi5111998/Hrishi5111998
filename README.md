@@ -40,15 +40,37 @@ Here are some ideas to get you started:
 
  
 ## Tech Stack 
+
+<br/>
+
+   <div align="center">
+   <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/143/143655.png"></code>
+   <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+   <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code>
+   <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+   <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png"></code>
  
- HTML
- 
- CSS
- 
- JavaScript
- 
- Java
- 
- Version Control
+ <details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+  
+<p align="center">
+<img width="425px"src="https://github-readme-stats.vercel.app/api?username=money8203&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=money8203&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=money8203&theme=dark&hide_border=true"/>
+</p>
+</details>
+  
+  <p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=money8203&column=7&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true">
+  </p>
+
  
  [![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishi5111998&count_private=true&show_icons=true&theme=onedark)](https://github.com/Hrishi5111998/github-readme-stats)
